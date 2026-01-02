@@ -7,10 +7,15 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		F9E00F892F02AAB500BD5BD7 /* Simple Platform.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Simple Platform.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F9E00F892F02AAB500BD5BD7 /* Simple Platform.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "Simple Platform.app"; path = "/Users/seanchoi/Desktop/App Development/01_PracticeProjects/Simple Platform/build/Debug-iphoneos/Simple Platform.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		F939CA032F0768BB00F25A82 /* screenshots */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = screenshots;
+			sourceTree = "<group>";
+		};
 		F9E00F8B2F02AAB500BD5BD7 /* Simple Platform */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = "Simple Platform";
@@ -33,16 +38,8 @@
 			isa = PBXGroup;
 			children = (
 				F9E00F8B2F02AAB500BD5BD7 /* Simple Platform */,
-				F9E00F8A2F02AAB500BD5BD7 /* Products */,
+				F939CA032F0768BB00F25A82 /* screenshots */,
 			);
-			sourceTree = "<group>";
-		};
-		F9E00F8A2F02AAB500BD5BD7 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				F9E00F892F02AAB500BD5BD7 /* Simple Platform.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -61,6 +58,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
+				F939CA032F0768BB00F25A82 /* screenshots */,
 				F9E00F8B2F02AAB500BD5BD7 /* Simple Platform */,
 			);
 			name = "Simple Platform";
@@ -95,7 +93,7 @@
 			mainGroup = F9E00F802F02AAB500BD5BD7;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = F9E00F8A2F02AAB500BD5BD7 /* Products */;
+			productRefGroup = F9E00F802F02AAB500BD5BD7;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
