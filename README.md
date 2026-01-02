@@ -127,3 +127,23 @@ This project is licensed under the **MIT License**.
 See the [LICENSE](./LICENSE) file for details.
 
 ---
+
+---
+
+## Image Credits
+
+Some images used in this app are provided by amazing photographers on  
+[Unsplash](https://unsplash.com).
+
+**Special thanks to:**
+
+Alexander Mass, Diana Vartanova, Hoi An, Nsey Benajah, Seljan Salimova,  
+Stephen Andrews, Ashley Piszek, Chalo Garcia, Edz Norton, Jamie Coupaud,  
+Julie Romaniuk, Kalpa Mahagamage, Omar Lopez, Tracy Truhan, Andres Molina,  
+Ashley Smith, Filipp Romanovski, Vika Fleysher, Angelo Pantazis,  
+Baylee Gramling, Kateryna Hliznitsova, Matteo Vistocco, Nathan Dumlao,  
+Ozkan Guner, Salah Regouane, Brooke Cagle, Foto Pettine, Hisu Lee,  
+Vadim Paripa, Virginia Marinova, Elist Nguyen, Iuliia Zhuravleva,  
+Kadarius Seegars, Severine Alves, Blake Cheek, Devon Divine,  
+Dmitry Schemelev, Nathan Walker, Olga Solodilova, Sinitta Leunen,  
+Veronica Lybbert
