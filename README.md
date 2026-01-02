@@ -126,7 +126,6 @@ Mock data is currently used to keep the repository **self-contained and easy to 
 This project is licensed under the **MIT License**.  
 See the [LICENSE](./LICENSE) file for details.
 
----
 
 ---
 
