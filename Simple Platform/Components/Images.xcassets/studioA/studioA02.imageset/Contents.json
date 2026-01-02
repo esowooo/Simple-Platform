@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "vadim-paripa-PuXtB1B4zL8-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

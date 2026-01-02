@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "iuliia-zhuravleva-eVz_DQ1X1_A-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

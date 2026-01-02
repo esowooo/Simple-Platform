@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "tracy-truhan-FqYPzp71YuI-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

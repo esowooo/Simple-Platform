@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "ashley-piszek-crSkE1CKQL0-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

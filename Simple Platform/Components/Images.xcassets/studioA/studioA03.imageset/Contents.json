@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "virginia-marinova-ApCt84UWw8c-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

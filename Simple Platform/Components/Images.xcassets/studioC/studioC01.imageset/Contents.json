@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "andres-molina-b5hZ0KFoLB0-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

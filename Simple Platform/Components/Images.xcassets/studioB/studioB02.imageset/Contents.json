@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "elist-nguyen-jR85d-9JmQs-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

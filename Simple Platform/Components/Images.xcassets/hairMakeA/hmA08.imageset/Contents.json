@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "omar-lopez-BIpwHIM5rDo-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}

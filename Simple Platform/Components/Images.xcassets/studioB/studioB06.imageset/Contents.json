@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "seljan-salimova-WxLIS8u2Eek-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
