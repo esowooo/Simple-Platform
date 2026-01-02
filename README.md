@@ -26,14 +26,14 @@ The app follows MVVM architecture with reusable UI components and a clear migrat
 
 ### Home / Vendor List
 <p align="center">
-  <img src="./screenshots/home_list.png" width="250" />
-  <img src="./screenshots/filter_sort.png" width="250" />
-  <img src="./screenshots/vendor_detail.png" width="250" />
+  <img src="./screenshots/home.png" width="250" />
+  <img src="./screenshots/list.png" width="250" />
+  <img src="./screenshots/vendorDetail.png" width="250" />
 </p>
 
 ### Favorite & Profile
 <p align="center">
-  <img src="./screenshots/favorite_list.png" width="250" />
+  <img src="./screenshots/favorite.png" width="250" />
   <img src="./screenshots/profile.png" width="250" />
 </p>
 
