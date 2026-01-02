@@ -18,6 +18,7 @@ The project focuses on:
 	•	Smooth migration path from mock data to cloud-based backend (Firebase)
 
 ## Screenshots
+<p align="center">
 ### Home / Vendor List
 <img width="300" alt="1" src="https://github.com/user-attachments/assets/9eb93cd5-15df-403e-a1e7-3820386282a0" />
 
@@ -26,13 +27,15 @@ The project focuses on:
 
 ### Vendor Detail
 <img width="300" alt="3" src="https://github.com/user-attachments/assets/ea06bad5-3c11-4f1d-8442-e3a96dcdf853" />
+</p>
 
+<p align="center">
 ### Favorite List
 <img width="300" alt="4" src="https://github.com/user-attachments/assets/c2702838-6ffb-4727-a81f-abbb052c350e" />
 
 ### Profile
 <img width="300" alt="5" src="https://github.com/user-attachments/assets/67e0ce25-ff4a-4096-ab72-62273f07a9ed" />
-
+</p>
 
 
 ⸻
@@ -109,5 +112,5 @@ Mock data is currently used to keep the repository self-contained and easy to re
 ## License
 
 This project is licensed under the MIT License.
-See the LICENSE￼ file for details.
+See the [LICENSE](https://github.com/esowooo/Simple-Platform/blob/main/LICENSE)￼ file for details.
 
