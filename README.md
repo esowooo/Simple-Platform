@@ -22,7 +22,7 @@ The app follows MVVM architecture with reusable UI components and a clear migrat
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home / Vendor List
 <p align="center">
@@ -39,7 +39,7 @@ The app follows MVVM architecture with reusable UI components and a clear migrat
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - SwiftUI (iOS 17+)
 - MVVM Architecture
@@ -52,7 +52,7 @@ The app follows MVVM architecture with reusable UI components and a clear migrat
 
 ## MVP1 – Implemented Features
 
-### 📄 Vendor List
+### Vendor List
 - Vendor list view with clean, scalable UI
 - Category-based filtering (e.g. Studio, Dress, Hair & Make)
 - Sorting options (Likes / Alphabetical)
